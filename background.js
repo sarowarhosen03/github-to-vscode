@@ -10,7 +10,7 @@ chrome.runtime.onInstalled.addListener(() => {
 
 //listener for context menu
 chrome.contextMenus.onClicked.addListener(function (info, tab) {
-    //the URL that will be added to based on the selection
+
     baseURL = info?.frameUrl;
     if (!baseURL.startsWith("https://github.com")) return;
 
