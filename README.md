@@ -12,12 +12,11 @@ turn on  Developer mode
 
 ![Screenshot from 2024-03-11 01-34-16](https://github.com/sarowarhosen03/github-to-vscode/assets/98280301/c2895d84-9f6f-4e63-b3d2-318a20c5546a)
 
-click on Pack extension
+click on Load extension
 select the root of github-to-vscode directory
-![image](https://github.com/sarowarhosen03/github-to-vscode/assets/98280301/7f2aa261-a14e-494b-a932-94dc18245b7c)
-then click Pack Extension
-![image](https://github.com/sarowarhosen03/github-to-vscode/assets/98280301/5ec73e54-ccf9-4012-aa03-d7011e6041e0)
-Done 
+
+Done ![Screenshot from 2024-03-11 01-50-33](https://github.com/sarowarhosen03/github-to-vscode/assets/98280301/7e3f10f8-f713-4df9-8aa4-e5b46e16925c)
+
 right click on any github repo webpage then click Open in Vscode 
 
 ![image](https://github.com/sarowarhosen03/github-to-vscode/assets/98280301/da1d886c-efd4-4b31-b022-0ebbc556734e)
