@@ -1,0 +1,21 @@
+{
+    "name": "Git To Vscode",
+    "description": "Browser extension to open a git repository in vscode",
+    "version": "1.0",
+    "author": "Sarowar Hossain",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": [
+        "contextMenus"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "16": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+    }
+}
